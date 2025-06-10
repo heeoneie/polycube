@@ -21,6 +21,7 @@ export default function MarkdownEditor() {
         const handler = (e: Event) => {
             const el = e.currentTarget as HTMLElement
             navigator.clipboard.writeText(el.textContent || '')
+            alert('인용문이 클립보드에 복사되었습니다!')
         }
 
         const blockquotes = document.querySelectorAll('blockquote')
