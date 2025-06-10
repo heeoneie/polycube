@@ -46,8 +46,16 @@ arr.unshift('e'); // ['e']
 > 주의할 점
 > 1. 예외 처리를 위해 반드시 .catch() 또는 try/catch를 사용할 것
 > 2. 비동기 흐름을 올바르게 await이나 .then()으로 제어하지 않으면 순서 오류 발생 가능
+---
+# React 과제 참고 이미지
 
+<img width="1065" alt="스크린샷 2025-06-10 오후 7 03 51" src="https://github.com/user-attachments/assets/d2d61169-f433-44c3-b649-e421ce62f04c" />
+<img width="457" alt="스크린샷 2025-06-10 오후 7 04 01" src="https://github.com/user-attachments/assets/0ec0baa7-0d7c-4849-9f93-56a599d02b52" />
+
+---
 # 심화 (알고리즘)
 > 조건 설명
 > 1. 모든 간선이 있는 정점들이 하나의 연결된 컴포넌트에 속해야 한다.
 > 2. 홀수 차수를 갖는 정점의 개수가 0개 또는 2개여야 한다.
+### 참고
+<img width="369" alt="스크린샷 2025-06-10 오후 7 04 27" src="https://github.com/user-attachments/assets/9045d73d-d19d-49e1-a36b-dceb627396e8" />
